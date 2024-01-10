@@ -1,0 +1,66 @@
+
+
+
+======Conditional Statement======
+
+if(condition){
+    Statement....
+}
+
+else if(condition){
+    Statement.....
+}
+
+else{
+    Statement.......
+}
+
+
+//Find out the grade according to given marks...
+100-80 = A+
+79-70  = A
+69-60  = A-
+59-50  = B
+49-40  = C
+
+39-33  = D
+32-0   = F
+
+Marks will be maximum 100  (80-100)
+
+Subject + Verb + Object
+
+I eat rice
+I eat chair
+
+//Find out a number is even or odd...
+
+number = 5/2 = 2=>1 odd
+number = 6/2 = 3=>0 even
+number = 15/2 = 7=>1 Odd
+
+//Write a Js program to find maximum between two numbers.
+
+number1 = 12
+number2 = 16
+
+if(number1 > number2){
+    console.log(number1);
+}
+
+elseif(number2 > number1){
+    console.log(number2);
+}
+
+console.log(number2);
+
+//Write a Js program to find maximum between three numbers.
+
+//Write a Js program to check whether a number is negative, positive or zero.
+number = 3;
+number = -1;
+1 2 3 4 5 6 0 -1 -2 -3 -4
+
+if(number>0){
+ console.log('Positive')
+}
